@@ -1,0 +1,18 @@
+Package: woodshop
+Title: useful packages
+Version: 0.0.0.9000
+Authors@R: 
+    person("Liza", "Wood", , "belwood@ucdavis.edu", role = c("aut", "cre"))
+Description: Here I will describe what this package does
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Imports: 
+    ggplot2
+    ggstance
+    magrittr
+    jtools
+Depends: 
+    R (>= 2.10)
