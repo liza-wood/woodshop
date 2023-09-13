@@ -10,9 +10,14 @@ Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.3
 Imports: 
-    ggplot2  
-    ggstance  
-    magrittr  
-    jtools  
+    ggplot2,  
+    ggstance,  
+    magrittr,  
+    jtools,
+    googledrive,
+    rmarkdown,
+    stringr,
+    readtext,
+    bib2df
 Depends: 
     R (>= 2.10)
